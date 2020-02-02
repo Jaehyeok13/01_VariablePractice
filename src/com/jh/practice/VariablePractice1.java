@@ -20,7 +20,7 @@ public class VariablePractice1 {
 			gender = "혼종";
 		}
 		
-		System.out.print("나이를 입력하세요 : ");
+		System.out.print("나이를 입력하세요 ㅇ: ");
 		int age = Integer.parseInt(sc.next());
 		
 		System.out.print("키를 입력하세요 (cm) : ");
